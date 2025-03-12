@@ -28,6 +28,7 @@ def negated_bounded_span(works, start, length):
     return sequence
 
 def print_full(x):
+    import pandas as pd # type: ignore
     pd.set_option('display.max_rows', len(x))
     print(x)
     pd.reset_option('display.max_rows')
