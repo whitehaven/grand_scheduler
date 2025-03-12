@@ -1,0 +1,20 @@
+rotation_name,min_wks,min_contig_wks,max_wks,resident_capacity,required_level,category
+PMP,0,2,4,1,Any,Primary Care
+HS Senior,4,2,8,2,Senior,HS
+HS Intern,8,4,8,4,Intern,HS
+SHMC ICU Senior,4,4,4,1,Senior,ICU
+Prov Rheum,0,2,4,1,Senior,Rheum
+STHC Amb,4,1,12,2,Senior,Primary Care
+Nights Intern,4,4,4,2,Intern,Nights
+Nights Senior,4,4,4,1,Senior,Nights
+CCNW H/O,0,2,4,1,Senior,Heme/Onc
+Consults,4,1,4,2,Senior,Consults
+Purple Senior,4,1,4,1,Senior,Purple
+DH ICU,0,4,4,1,Senior,ICU
+Prov Pulm,0,2,4,1,Senior,Pulmonology
+Summit CC,0,2,4,1,Senior,Heme/Onc
+Multicare Pulm,0,2,4,2,Senior,Pulmonology
+CICU,0,2,4,1,Senior,ICU
+SHMC ICU Intern,4,4,4,2,Intern,ICU
+Purple Intern,2,1,4,1,Intern,
+DH ICU Senior,0,4,4,1,Senior,
