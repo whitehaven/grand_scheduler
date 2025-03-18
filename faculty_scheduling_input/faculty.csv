@@ -1,0 +1,14 @@
+﻿name,inpatient shifts per year,ideal Purple,ideal HS,clinic_only,guess_FTE
+Allen,0,0,0,clinic only,1
+Benson,21,7,14,works inpatient,1
+Eddy,14,4.666666666666667,9.3333333333333339,works inpatient,0.5
+Kerkering,0,0,0,clinic only,1
+Lungren,21,7,14,works inpatient,1
+May,21,7,14,works inpatient,1
+McDermott,6,2,4,works inpatient,0.25
+Potyk,6,2,4,works inpatient,0.25
+Stewart,21,7,14,works inpatient,1
+Swanson,15,5,10,works inpatient,0.5
+Zhang,21,7,14,works inpatient,1
+Castagna,21,7,14,works inpatient,1
+Crist,21,7,14,works inpatient,1
